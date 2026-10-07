@@ -1,0 +1,14 @@
+# tblClothes data - Clothing items for Pastimes Clothing Store
+# Format: item_name|description|size|color|category|price|seller_id|image_path|status
+
+Denim jacket|black denim in a better condition|XS|black|Jacket|300.00|1|images/1777901882_Black denim jacket.jpeg|active
+Denim Jacket|denim in a good condition|L|blue|Jacket|450.00|1|images/1777901941_blue denim jacket.jpeg|active
+coat|faux fox coat in excellent condition|M|pink|Top|700.00|1|images/1777902037_faux fox pink coat.jpeg|sold
+jogger pants|ladies jogger pants still in good condition|XS|grey|Bottom|150.00|3|images/1777902558_jogger pants.jpeg|sold
+handbag|still in good condition|M|Tan|Accessory|350.00|7|images/1777903672_sunglasses pouch for handbags.jpeg|sold
+Britton squre lace up|Timberland still in good condition|9|wheat|Shoes|4500.00|7|images/1777904497_Britton Square Lace-up shoes.jpeg|sold
+Laced Men shoes|Arbiter good for formal wear still in excellent condition|10|Tan|Shoes|7000.00|7|images/1777904777_Arbiter Laced Mens Shoes.jpeg|sold
+Side bag|accesories bag still in great condition|XS|black|Accessory|500.00|7|images/1777904862_accesories bag.jpeg|sold
+floral summer dress|still in good condition|L|blue|Dress|250.00|7|images/1777904986_floral summer dress.jpeg|active
+Maxi skirt|silk material still in  very good condition|M|blue|Dress|300.00|7|images/1777905065_maxi skirt.jpeg|active
+puffer jacket|Alexander Wang  cropped puffer still in excellent condition|M|white|Jacket|13000.00|7|images/1777905398_WhatsApp Image 2026-04-30 at 1.52.50 AM.jpeg|active
